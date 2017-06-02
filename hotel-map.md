@@ -2,7 +2,6 @@
 title: Hotel Map and Restaurant Guide
 ---
 
-**NOTE: verify for 2017, copied directly from 2016**
 
 ## Entry Level
 

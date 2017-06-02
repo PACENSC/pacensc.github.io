@@ -100,7 +100,7 @@ Meera Srinivasan (Sophomore)
 
 
 ---
-### La Jolla (SS)     
+### La Jolla      
 **Coach**: Aaron Quesnell      
 **Roster**:      
 James Malouf (Senior, headed to UC Berkley)     
@@ -112,7 +112,7 @@ Jennifer Andrey (Sophomore)
 
 
 ---
-### Pi-oneers (SS)
+### Pi-oneers 
 **Roster**:      
 Josh Rollin (Freshman)
  
@@ -123,7 +123,7 @@ Josh Rollin (Freshman)
 
 
 ---
-### Rancho Bernardo (SS)      
+### Rancho Bernardo       
 **Coach**: Emily Novet       
 **Roster**:      
 Bryan Ugaz (Senior, headed to Arizona State University )     
@@ -171,7 +171,7 @@ Julia Tong (Junior)
 ## Delaware
 
 
-### Wilmington Charter JV     
+### Wilmington Charter (JV)     
 **Coach**: Mrs. Rosemary Basquill      
 **Roster**:      
 Sohum Shenoy (Sophomore)     
@@ -527,7 +527,7 @@ Jacob Schwartz (Junior)
 ## Kentucky
 
 
-### Danville High School     
+### Danville High School (SS)     
 **Coach**: Rob Kremer      
 **Roster**:      
 Daniel McAllister (Senior, headed to Centre College)     
@@ -539,7 +539,7 @@ Eli Gooch (Sophomore)
 
 
 ---
-### Glasgow High School     
+### Glasgow High School (SS)     
 **Coach**: Todd Garrison      
 **Roster**:      
 Anish Patel (Senior, headed to University of Kentucky)     
@@ -704,7 +704,7 @@ We won the Fall Kickoff Tournament and the March Madness Tournament at Michigan 
 
 
 ---
-### Sacred Heart Academy (SS)     
+### Sacred Heart Academy      
 **Coach**: Kathryn Hausbeck      
 **Roster**:      
 Devin Humphreys (Senior, headed to Michigan State University)     
@@ -809,7 +809,7 @@ In its third year of existence, the Northwest High School Scholar Bowl team won 
 
 
 ---
-### Orchard Farm
+### Orchard Farm (SS)
 **Roster**:      
 Tyler Woosencraft (Senior, headed to Missouri State University)     
 Will Runion (Senior, headed to University of Oklahoma)     
@@ -820,7 +820,7 @@ Josie Wagner (Junior)
 
 
 ---
-### Thomas Jefferson Independent A (SS)     
+### Thomas Jefferson Independent A      
 **Coach**: Justin Kleinheider       
 **Roster**:      
 Savannah Dillard (Freshman)     
@@ -946,7 +946,7 @@ MCA quiz bowl has grown since its conception four years ago as the core A team h
 ![](images/MiddlesexCounty.jpg)
 
 ---
-### Mountain Lakes High School     
+### Mountain Lakes High School (SS)     
 **Coach**: Anne Mucci, Mark Hoffman      
 **Roster**:      
 Ron Mucci (Senior, headed to Rutgers University)     
@@ -1089,7 +1089,7 @@ Gabriel Pinto (Sophomore)
 
 
 ---
-### Fisher Catholic (SS)     
+### Fisher Catholic      
 **Coach**: Michael Sedlack, Lynn Stevenson      
 **Roster**:      
 Hunter Wotruba     Captain (Senior, headed to Miami University  Oxford, Ohio)     
@@ -1146,7 +1146,7 @@ This is the third year that our program has been actively traveling outside the 
 
 
 ---
-### Sidney High School     
+### Sidney High School (SS)     
 **Coach**: Brett Bickel      
 **Roster**:      
 NourEddine Hijazi  (Senior, headed to Wright State University)     
@@ -1223,10 +1223,10 @@ This will be Lisgar Collegiate's second appearance at PACE. This year we qualifi
 ## Pennsylvania
 
 
-### Lehigh Valley Academy     
+### Lehigh Valley Academy (SS)     
 **Coach**: Charles Adami, Peter Schmidt, Leianne Whitley       
 **Roster**:      
-Lucas Larkin (Senior, headed to Rochester )     
+Lucas Larkin (Senior, headed to Rochester)     
 Alex Schmidt (Junior)
  
  
@@ -1255,7 +1255,7 @@ Sreya Pudi (Junior)
 
 
 ---
-### Southside High School A      
+### Southside High School A (SS)      
 **Coach**: Brian Corbett       
 **Roster**:      
 Hasna Karim  (Senior, headed to Yale)     
@@ -1269,7 +1269,7 @@ We won Harvard this year and some other stuff. Also, Ethan's beard is pretty dec
 
 
 ---
-### Southside High School B     
+### Southside High School B (SS)     
 **Coach**: Brian Corbett      
 **Roster**:      
 Melody Hong  (Senior, headed to Duke )     

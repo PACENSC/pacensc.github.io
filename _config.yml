@@ -19,9 +19,6 @@ links:
   - name:         Team directory
     url:          /team-directory
     external:     false
-  - name:         2018 PACE NSC
-    url:          /2018-plug
-    external:     false
   - name:         Hotel Map
     url:          /hotel-map
     external:     false
