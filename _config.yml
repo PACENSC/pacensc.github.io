@@ -1,0 +1,42 @@
+# ----------- CONFIGURABLE START -----------
+title:            "2017 PACE NSC Program"
+url:              https://pacensc.github.io # Site url, without a slash at the end.
+signoff:          "PACE" # Your name
+facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
+google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
+share:            false # Turn on twitter and facebook share buttons
+
+links:
+  - name:         Tournament Schedule
+    url:          /schedules
+    external:     false
+  - name:         President's Message
+    url:          /message-from-president
+    external:     false
+  - name:         2017 Cooper Awards
+    url:          /cooper
+    external:     false
+  - name:         Team directory
+    url:          /team-directory
+    external:     false
+  - name:         2018 PACE NSC
+    url:          /2018-plug
+    external:     false
+  - name:         Hotel Map
+    url:          /hotel-map
+    external:     false
+  - name:         PACE Homepage
+    url:          http://pace-nsc.org
+    external:     true
+
+# ------------ CONFIGURABLE END ------------
+
+permalink:        /posts/:title
+markdown: kramdown
+ 
+kramdown:
+  toc_levels: 1..2
+defaults:
+  - values:
+      layout: "default"
+
