@@ -112,9 +112,13 @@ Jennifer Andrey (Sophomore)
 
 
 ---
-### Pi-oneers 
+### Pi-oneers (JV)
 **Roster**:      
 Josh Rollin (Freshman)
+
+
+**Team Notes:**     
+Coached by Josh Rollin, team Pioneers looks to make a strong debut while captained by top scorer Josh Rollin. Team Pioneers is widely considered by many prominent pundits to be the 96th best team (Top 100 woohoo!) of the registered teams as well as the second best solo team. While Josh Rollin is the top scorer and giver of bonus answers, you can expect to see a well-balanced team as all of the players tend to average the same points per game.
  
  
  
@@ -281,25 +285,25 @@ NHS recently finished second on WSB-TV's HighQ state-wide competition, earning $
 
 ## Illinois
 
-### Adlai E. Stevenson A
-Coach: Ryan Fedewa
-**Roster**: 
-Ali Saeed (Senior, headed to Stanford)
-Young Lee (Senior)
-Deepak Moparthi (Junior)
+### Adlai E. Stevenson A    
+Coach: Ryan Fedewa    
+**Roster**:     
+Ali Saeed (Senior, headed to Stanford)    
+Young Lee (Senior)    
+Deepak Moparthi (Junior)    
 Govind Prabhakar (Freshman)
   
 ---
 
 
 ### Adlai E. Stevenson B
-Coach: Ryan Fedewa
-**Roster**: 
-Shamsheer Rana (Junior)
-Conrad Oberhaus (Junior)
-Healey Kogan (Freshman)
-David Holmquist (Freshman)
-Ani Nuthalapati (Sophomore) 
+Coach: Ryan Fedewa     
+**Roster**:     
+Shamsheer Rana (Junior)    
+Conrad Oberhaus (Junior)    
+Healey Kogan (Freshman)    
+David Holmquist (Freshman)    
+Ani Nuthalapati (Sophomore)     
 
 
 
@@ -365,7 +369,7 @@ Ethan Bosch (Junior)
 **Roster**:      
 Pranav Sivakumar (Senior, headed to University of California-Berkley)     
 Nathaniel Smith (Senior, headed to California Institute of Technology)     
-Alex Orlov (Senior, headed to University of Minnesota-Twin Cities)     
+Alex Orlov (Senior, headed to University of Wisconsin-Madison)     
 Rebecca Mathew (Junior)     
 Shivani Sharma (Junior)     
 Hanson Hao (Sophomore)
@@ -437,7 +441,7 @@ Metea Valley is a competitive and relatively new school in the suburb of Chicago
 **Roster**:      
 Jakob Myers (Senior, headed to Michigan State)     
 Shawn Yoshida (Senior, headed to Case Western)     
-Kelvin Li (Senior)     
+Kelvin Li (Senior, headed to Harvard University)     
 Jason Hu (Junior)     
 Jacob Fisher (Junior)     
 Emily Hou (Junior)
@@ -678,8 +682,8 @@ The DCC B team finished the season with an overall record of 107-33 and ranked #
 Ian Mascarenhas (Junior)     
 David DeBacker (Sophomore)     
 Jonah Fanning (Junior)     
-Parker Stogdill (Sophomore)
-  
+Frank Womac (Junior)
+     
 
 **Team Notes:**     
 The DCC C team finished the season with an overall record of 64-40 and ranked #152 nationally.  
@@ -739,8 +743,8 @@ The relatively young team from UAIS had another successful season earning their 
 
 
 ### Wayzata     
-**Coach**: Meaghan Decker,Brian Decker      
-**Roster**:      
+**Coach**: Meaghan Decker, Brian Decker      
+**Roster**:       
 Tora Husar (Junior)     
 Joe Kammann (Junior)     
 Brian Lin (Freshman)     
@@ -782,13 +786,13 @@ Jack Madden (Sophomore)
 
 ---
 ### Ladue Horton Watkins High School B
-Coach: Jonah Krueger
-**Roster**: 
-Philip Adams (Senior, headed to University of Chicago)
-Martin Oyalo (Senior, headed to University of Missouri - Columbia)
-Glen Morgenstern (Junior)
-William Gorski (Junior)
-Charlie Loitman (Junior)
+Coach: Jonah Krueger    
+**Roster**:     
+Philip Adams (Senior, headed to University of Chicago)    
+Martin Oyalo (Senior, headed to University of Missouri - Columbia)    
+Glen Morgenstern (Junior)    
+William Gorski (Junior)    	
+Charlie Loitman (Junior)     
 
 
 ---
@@ -1092,11 +1096,13 @@ Gabriel Pinto (Sophomore)
 ### Fisher Catholic      
 **Coach**: Michael Sedlack, Lynn Stevenson      
 **Roster**:      
-Hunter Wotruba     Captain (Senior, headed to Miami University  Oxford, Ohio)     
+Hunter Wotruba (Captain, Senior, headed to Miami University  Oxford, Ohio)     
 Brock Conrad (Senior, headed to Ohio State University)     
 Zach Vogel (Senior, headed to Ohio State University)     
 Carter Corcoran (Senior, headed to University of Toledo)     
-Alex Blackston (Junior) 
+Alex Blackston (Junior)   
+Asher Carr (Sophomore)
+
 
 **Team Notes:**     
 We are a small Catholic school of 161 students located in southeast Ohio.  We recently won took 2nd place at the OAC State Finals competing indirectly against 732 schools in Ohio many of them with an enrollment 2,000 or 3,000 students. Our students are involved in many aspects of life at Fisher including: quarterback on the football team, 1st single in tennis, lead in the school musical, valedictorian of the class. 
@@ -1130,6 +1136,7 @@ Zach Weeks (Middle School)
 **Team Notes:**     
 The Northmont Academic Challenge team continued its string of successes this season by winning 4 tournaments and extending its conference winning streak to a record 151 games. Team captain Kara Combs was the top scorer at 5 tournaments this season and was a top 20 finisher at the National History Bee. The team competed at events all around the country this year, including Florida, North Carolina, Texas, Washington DC, and throughout the midwest. 
 
+![](images/Northmont.jpg)
 
 ---
 ### Olentangy Liberty High School     
