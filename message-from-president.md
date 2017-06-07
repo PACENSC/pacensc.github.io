@@ -22,3 +22,5 @@ Once again, thank you so much for attending this year’s NSC. I hope you all ha
 Sincerely,  
 David Reinstein   
 ![](images/ReinsteinPicture.jpg)
+
+

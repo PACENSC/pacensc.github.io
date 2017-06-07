@@ -618,7 +618,7 @@ Connor Akers (Sophomore)
 Sam He (Senior, headed to UC Berkeley)     
 Brandon Qi (Junior)     
 Carson Teitler (Junior)     
-Eric Yo (Junior)
+Eric You (Junior)
   
 
 

@@ -25,6 +25,9 @@ links:
   - name:         NSC Social Media
     url:          /social-media
     external:     false
+  - name:         NSC rules
+    url:          /rules
+    external:     false
   - name:         PACE Homepage
     url:          http://pace-nsc.org
     external:     true
