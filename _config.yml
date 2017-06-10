@@ -31,6 +31,9 @@ links:
   - name:         PACE Homepage
     url:          http://pace-nsc.org
     external:     true
+  - name:         Playoff Seeds (Sat Afternoon)
+    url:          /playoff_seeds
+    external:     false
 
 # ------------ CONFIGURABLE END ------------
 
