@@ -79,7 +79,7 @@
 5 Wayzata   
 6 Washington B   
     
- Jordan   
+## Jordan   
     
 1 Singapore American   
 2 Middlesex County Academy   
