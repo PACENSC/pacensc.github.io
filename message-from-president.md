@@ -9,7 +9,7 @@ people deserve credit for PACE and the NSC being able to serve high school teams
 
 The [David Riley Coaches Conference](http://www.pace-nsc.org/david-riley-coaches-conference/) takes place Friday night. We hope you will join us for a wide-ranging discussion of quizbowl. We will talk both about how you can compete better and about how we together can make quizbowl better.
 
-Speaking of how we together can make quizbowl better, PACE is a registered 501(c)(3) non-profit which sponsors a variety of programs throughout the year in order to advance our mission of promoting high¬quality high school quizbowl. I’d like to highlight two such programs in particular:
+Speaking of how we together can make quizbowl better, PACE is a registered 501(c)(3) non-profit which sponsors a variety of programs throughout the year in order to advance our mission of promoting high-quality high school quizbowl. I’d like to highlight two such programs in particular:
 - The [PACE Outreach Fund](http://www.pace-nsc.org/pace-outreach-fund-2016-17/) – This is a grant that individuals and quizbowl organizations can apply for to help recruit new teams to a circuit or to start a circuit.
 - The [Morgan Costa-Rhodes Memorial Scholarship](http://www.pace-nsc.org/2017-morgan-costa-rhodes-memorial-scholarship-winner/) – This is a scholarship to help students who are starting college who demonstrate dedication to quizbowl, community service, and financial need.
 
