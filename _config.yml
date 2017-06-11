@@ -34,7 +34,9 @@ links:
   - name:         Playoff Seeds (Sat Afternoon)
     url:          /playoff_seeds
     external:     false
-
+  - name:         Superplayoff + Placement Seeds (Sunday Morning)
+    url:          /sunday-seeds
+    external:     false
 # ------------ CONFIGURABLE END ------------
 
 permalink:        /posts/:title
