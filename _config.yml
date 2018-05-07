@@ -1,29 +1,47 @@
 # ----------- CONFIGURABLE START -----------
-title:            "2018 PACE NSC Program"
+title:            "2017 PACE NSC Program"
 url:              https://pacensc.github.io # Site url, without a slash at the end.
 signoff:          "PACE" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
 share:            false # Turn on twitter and facebook share buttons
+<<<<<<< HEAD
 theme: jekyll-swiss
 theme_color: white
+=======
+>>>>>>> parent of cc0bc21... Update _config.yml
 
 links:
   - name:         President's Message
     url:          /message-from-president
     external:     false
-  - name:         2018 Cooper Awards
+  - name:         2017 Cooper Awards
     url:          /cooper
     external:     false
+<<<<<<< HEAD
+=======
+  - name:         Team directory
+    url:          /team-directory
+    external:     false
+  - name:         Hotel Map
+    url:          /hotel-map
+    external:     false
+>>>>>>> parent of cc0bc21... Update _config.yml
   - name:         NSC Social Media
     url:          /social-media
     external:     false
-  - name:         NSC Rules
+  - name:         NSC rules
     url:          /rules
     external:     false
   - name:         PACE Homepage
     url:          http://pace-nsc.org
     external:     true
+  - name:         Playoff Seeds (Sat Afternoon)
+    url:          /playoff_seeds
+    external:     false
+  - name:         Superplayoff + Placement Seeds (Sunday Morning)
+    url:          /sunday-seeds
+    external:     false
 # ------------ CONFIGURABLE END ------------
 
 permalink:        /posts/:title
