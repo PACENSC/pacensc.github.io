@@ -11,15 +11,18 @@ theme_color: white
 links:
   - name:         President's Message
     url:          /message-from-president
-    external:     false
-  - name:         2018 Cooper Awards
-    url:          /cooper
+    external:     false  
+  - name:         2018 Schedule
+    url:          /schedules
     external:     false
   - name:         NSC Social Media
     url:          /social-media
     external:     false
   - name:         NSC Rules
     url:          /rules
+    external:     false
+  - name:         2018 Cooper Awards
+    url:          /cooper
     external:     false
   - name:         PACE Homepage
     url:          http://pace-nsc.org
