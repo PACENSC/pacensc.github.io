@@ -8,10 +8,7 @@ share:            false # Turn on twitter and facebook share buttons
 theme: jekyll-swiss
 theme_color: white
 
-links:
-  - name:         President's Message
-    url:          /message-from-president
-    external:     false  
+links: 
   - name:         2018 Schedule
     url:          /schedules
     external:     false
