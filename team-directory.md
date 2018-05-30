@@ -1957,6 +1957,8 @@ Sean Doyle (Junior)
 
 Houston Mark (Sophomore)
 
+Eli Blasini (Freshman)
+
 
 
 
@@ -1978,8 +1980,6 @@ Pablo Lloyd (Sophomore)
 Michael Artlip (Sophomore)
 
 Isean Bhalla (Freshman)
-
-Eli Blasini (Freshman)
 
 
 
@@ -2268,15 +2268,9 @@ Coach: Amy Arnold, Meredith Summers
 
 **Roster**: 
 
-Jack Acord (Sophomore)
-
 Mike Fox (Sophomore)
 
 Sam King (Sophomore)
-
-Ashton Rutherford (Junior)
-
-Jacob Levenson (Senior)
 
 
 
