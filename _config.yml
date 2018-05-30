@@ -12,6 +12,9 @@ links:
   - name:         2018 Schedule
     url:          /schedules
     external:     false
+  - name:         Team Directory
+    url:          /team-directory
+    external:     false
   - name:         NSC Social Media
     url:          /social-media
     external:     false
