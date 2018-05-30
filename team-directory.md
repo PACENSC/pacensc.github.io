@@ -527,21 +527,15 @@ Coach:
 
 **Roster**: 
 
+Jaden Lucas (Senior, headed to University of Illinois)
 
+Jonah Biggers (Junior)
 
+Ian Kinsel (Junior)
 
+Shaunak Talapatra (Junior)
 
-
-
-
-
-
-
-
-
-**Team Notes**
-
-Carbondale declined to submit a roster.
+Nicholas Johnson-Fuller (Sophomore)
 
 
 
