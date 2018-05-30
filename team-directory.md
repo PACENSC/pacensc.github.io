@@ -283,27 +283,17 @@ Kevin Yu (Senior, headed to Caltech)
 
 ## Connecticut
 
-### Darien A
+### Darien 
 
-Coach: 
+Coach: John Gearty
 
 **Roster**: 
 
+Julia Tong (Senior, headed to Barnard College)
 
+John Phipps (Sophomore)
 
-
-
-
-
-
-
-
-
-
-
-**Team Notes**
-
-Darien A declined to submit a roster.
+Vincent Xu (Freshman)
 
 
 
@@ -559,25 +549,22 @@ Carbondale declined to submit a roster.
 
 ### Carl Sandburg A
 
-Coach: 
+Coach: Mike Woolley
 
 **Roster**: 
 
+Claudia Danowski (Senior, headed to Lewis University)
 
+Mayokun Abiona (Senior, headed to University of Chicago)
 
+Aristotle Vainikos (Junior)
 
+Sofia Vainikos (Junior)
 
+Angela Vainikos (Junior)
 
+Carson Krol (Junior)
 
-
-
-
-
-
-
-**Team Notes**
-
-Carl Sandburg A declined to submit a roster.
 
 
 
@@ -1332,7 +1319,7 @@ Maximilian Shatan (Senior, headed to Wesleyan University)
 
 Lev Bernstein (Senior, headed to New York University)
 
-Christopher Stauffer (Senior, headed to Georgetown University)
+Maya Rubin (Senior, headed to Wellesley)
 
 Cade Aguda (Senior, headed to Northwestern University in Qatar)
 
@@ -2091,7 +2078,26 @@ Jenny Gu (Senior, headed to Harvard)
 The New Horizons Governor’s School for Science and Technology team of Jenny Gu, James Harrington, Lewis McAllister, Rachel McNamara, Kate Perkins, and Jakob Weiss, was just formed this year. The first quiz bowl NHGS attended was the MVGS Open at the Mountain Vista Governor’s School. The team took a lot of lessons from that competition, for many it was the first quiz bowl they had attended in that format. A few weeks later, New Horizons competed in William & Mary’s second annual James Blair bowl. The senior team won second place at that event, with 3 members earning honors as top 10 scorers. It has been an honor to compete this year as the team heads off to BC, Harvard, Harvey Mudd, U of Alabama and UVA.  The team would especially like to thank their coach Dr. Woo for making this all possible.
 
 
+### James W. Robinson Secondary School
 
+Coach: Michael P. Campana, Chris W. Bird
+
+**Roster**: 
+
+Jacob Augelli (Senior, headed to Vanderbilt University)
+
+Ryan Bradley (Senior, headed to University of Miami)
+
+Mason Cook (Junior)
+
+Joshua Link (Junior)
+
+Megan Sullivan (Junior)
+
+Will Taft (Senior, headed to Carleton College)
+
+**Team Notes**
+James W. Robinson Secondary School's quizbowl highlights for the 2017-18 season include finishing the 2018 NAQT HSNCT in 20th place with a 9-5 record, winning our 2nd-consecutive VHSL Class 6A Scholastic Bowl State Championship (as well as winning the Super-Regional and Regional tournaments), winning the VCU Season Finale tournament, finishing second at GSAC XX, finishing 3rd at the NAQT Virginia State Qualifier, and scoring 805 points in a first-round match on ""It's Academic"". Team captain Jacob Augelli was selected to the 2018 Virginia state NASAT ""B"" team, was the overall top individual scorer across all divisions of the 2018 VHSL Scholastic Bowl State Championship tournament, and was the #41 individual scorer in the preliminary rounds of the 2018 NAQT HSNCT. Additionally, we qualified and sent a “B” team to the NAQT HSNCT for the first time in school history.
 
 
 ### TJHSST A
