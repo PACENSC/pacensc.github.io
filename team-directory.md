@@ -159,25 +159,22 @@ The Dublin High School Quizbowl Team is coached by the wonderful Jerry Li and co
 
 ### San Dieguito Academy
 
-Coach: 
+Coach: Linda Park
 
-**Roster**: 
+**Roster**:
 
+Kai Flood (Junior)
 
+Oona “Blue” Flood (Junior)
 
+Darian Flores (Senior, Headed to University of California, Berkeley)
 
+Klaus Neyer (Senior, Headed to University of Southern California (USC))
 
-
-
-
-
-
-
-
+Rokas Veitas (Senior, Headed to MIT)
 
 **Team Notes**
-
-San Dieguito Academy declined to submit a roster.
+Although we belong to a large high school Academic League team (of which we are regional champions this year), this is only our second year competing in Quiz Bowl. We are a small team of five who try not to take ourselves too seriously. We enjoy being with other nerds and are happy that there is no “trash” in this tournament.  Look for us in our trademark black and blue flannels!
 
 
 
@@ -337,7 +334,7 @@ Waley He (Junior)
 
 Rishith Ramamurthy (Sophomore)
 
-
+Prasanna Krishnamoorthy (Sophomore)
 
 
 
@@ -860,17 +857,11 @@ Coach: Erik Lodal
 
 Sophia Weng (Sophomore)
 
-David Witten (Senior, headed to Vanderbilt)
-
 Matthew Shu (Sophomore)
 
-Matthew Shu (Sophomore)
+Lee Lemar (Sophomore)
 
-Seung-Hyun Kwon (Freshman)
-
-
-
-
+Alexander Constantino (Sophomore)
 
 
 
@@ -1609,7 +1600,7 @@ This year we have had a lot of fun (probably too much fun). We placed fourth in 
 
 ### Delaware Valley
 
-Coach: 
+Coach: Kevin DeVizia
 
 **Roster**: 
 
@@ -1622,6 +1613,10 @@ Andy Greene (Senior, headed to Wake Forest University)
 Abhay Byadgi (Senior, headed to University of Pittsburgh)
 
 Emma Dove (Junior)
+
+Chris Secular (Junior) 
+
+Darius Bermudez (Sophomore)
 
 
 
