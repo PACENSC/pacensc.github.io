@@ -888,8 +888,21 @@ Olivia Chen (Junior)
 Shoutout to Olivia Chen for working so hard to make a nationals run possible this year, and many thanks to Naveen Raman and Adam Howlett for studying hard to keep the team strong - Alex
 
 
+### Richard Montgomery B
 
+Coach: Dr. Wendy Sparks
 
+**Roster**: 
+
+Derek Chu (Sophomore)
+
+Kevin Lu (Junior)
+
+Justin Posner (Freshman)
+
+Daniel Yang (Junior)
+
+Grant Yang (Junior)
 
 ### Winston Churchill
 
