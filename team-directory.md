@@ -2220,11 +2220,11 @@ Vishal Kanigicherla (Freshman)
 
 Siddharth Krishnakumar (Freshman)
 
-Karthik Prasad (Freshman)
+Karthik Prasad (Sophomore)
 
 Alan Qi (Freshman)
 
-Suchet Sapre (Freshman)
+Suchet Sapre (Sophomore)
 
 
 
