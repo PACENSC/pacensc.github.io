@@ -1,30 +1,29 @@
 # ----------- CONFIGURABLE START -----------
-title:            "2018 PACE NSC Program"
+title:            "2019 PACE NSC"
 url:              https://pacensc.github.io # Site url, without a slash at the end.
 signoff:          "PACE" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
 share:            false # Turn on twitter and facebook share buttons
-theme: jekyll-swiss
-theme_color: white
+theme: just-the-docs
 
 links: 
-  - name:         Playoff Seeds
-    url:          /playoff-seeds
-    external:     false
-  - name:         2018 Schedule
+#  - name:         Playoff Seeds
+#    url:          /playoff-seeds
+#    external:     false
+  - name:         Schedule
     url:          /schedules
     external:     false
-  - name:         Team Directory
-    url:          /team-directory
+  - name:         Program
+    url:          /program
     external:     false
-  - name:         NSC Social Media
-    url:          /social-media
-    external:     false
-  - name:         NSC Rules
+  - name:         Rules
     url:          /rules
     external:     false
-  - name:         2018 Cooper Awards
+  - name:         Social Media
+    url:          /social-media
+    external:     false
+  - name:         Cooper Awards
     url:          /cooper
     external:     false
   - name:         PACE Homepage
