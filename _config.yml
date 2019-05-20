@@ -1,34 +1,13 @@
 # ----------- CONFIGURABLE START -----------
-title:            "2019 PACE NSC"
-url:              https://pacensc.github.io # Site url, without a slash at the end.
-signoff:          "PACE" # Your name
-facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
-google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
-share:            false # Turn on twitter and facebook share buttons
-theme: jekyll-theme-minimal
-
-links: 
-#  - name:         Playoff Seeds
-#    url:          /playoff-seeds
-#    external:     false
-  - name:         Schedule
-    url:          /schedules
-    external:     false
-  - name:         Program
-    url:          /program
-    external:     false
-  - name:         Rules
-    url:          /rules
-    external:     false
-  - name:         Social Media
-    url:          /social-media
-    external:     false
-  - name:         Cooper Awards
-    url:          /cooper
-    external:     false
-  - name:         PACE Homepage
-    url:          http://pace-nsc.org
-    external:     true
+title:            2019 PACE NSC
+description:      The official website of the 2019 National Scholastic Championship.
+logo:             pace.png
+url:              https://pacensc.github.io
+remote_theme:     pmarsceill/just-the-docs
+#color_scheme:     "dark"
+aux_links:
+  "PACE Website":
+    - "//pace-nsc.org"
 # ------------ CONFIGURABLE END ------------
 
 permalink:        /posts/:title
@@ -39,4 +18,5 @@ kramdown:
 defaults:
   - values:
       layout: "default"
+
 
