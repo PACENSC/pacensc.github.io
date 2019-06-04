@@ -1,5 +1,5 @@
 ---
-title: Schedules
+title: Game Schedules
 nav_order: 1
 ---
 
