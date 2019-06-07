@@ -3,7 +3,7 @@ title: Game Schedules
 nav_order: 1
 ---
 
-**The below schedule is a placeholder; the 2019 NSC schedule will be released closer to the tournament date.**
+# 2019 PACE NSC Team Schedule
 
-<iframe src="https://drive.google.com/file/d/1UcHa6nSFMo1cetArQw5z4rz5RfVsWyOm/preview" width="750" height="600"></iframe>
+<iframe src="https://drive.google.com/file/d/17CdV9EVUhpWx2z2R5dIuNawn-pQs66Zz/preview" width="900" height="750"></iframe>
 
