@@ -4,7 +4,7 @@ description:      The official website of the 2021 National Scholastic Champions
 logo:             pace.png
 url:              https://hdwhite.github.io
 remote_theme:     pmarsceill/just-the-docs
-color_scheme:     "nsc"
+color_scheme:     nsc
 search_enabled:   false
 aux_links:
   "PACE Website":
