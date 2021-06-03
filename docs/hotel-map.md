@@ -1,6 +1,6 @@
 ---
 title: Getting Around
-nav_order: 5
+nav_exclude: true
 ---
 # Table of Contents
 {: .no_toc}

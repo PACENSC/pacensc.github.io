@@ -3,38 +3,22 @@ title: Tournament Schedule
 nav_order: 0.5
 ---
 
-# Friday, June 7th, 2019
-* 6:00 - 9:00 pm: Team Check-in (Grand Ballroom Foyer)
-* 6:00 - 9:00 pm: Staff Check-in (Lake Audubon)
-* **7:00 - 9:00 pm: College/Vendors Fair (TBD)**
-* **7:00 - 9:00 pm: David Riley Coaches Conference (Lake Audubon)**
+All times Eastern
 
-# Saturday, June 8th, 2019
-* 6:45 - 7:30 am: Team Check-in (Grand Ballroom Foyer)
-* 7:30 - 8:00 am: Opening meeting (Grand Ballroom D-G)
-* 8:30 - 1:00 pm: Rounds 1-7 (prelims)
-* 1:00 - 1:45 pm: Tiebreaker A
-* 1:45 - 3:00 pm: Lunch
-
-*Playoff seeds will be posted at ~2:30 pm.*
-
-* 3:00 - 6:00 pm: Rounds 8-12 (playoffs)
-* 6:00 - 6:30 pm: Tiebreaker B
-
-*Superplayoff and placement round seeds will be posted at ~8:30 pm.*
+# Saturday, June 5th, 2021
+* 10:00 - 10:10 am: Opening Meeting
+* 10:15 - 10:30 am: Equipment Check
+* 10:35 am - 1:50 pm: Stage I (Prelims): Rounds 1-4
+* 1:55 - 2:30 pm: Lunch
+* 2:30 - 5:00 pm: Stage I (Prelims): Rounds 5-7
+* 5:00 - 5:45 pm: Tiebreaker A
+* 6:05 - 7:40 pm: Stage II (Playoffs): Rounds 8-9
+* 7:45 - 8:30 pm: Tiebreaker B (Tier I only)
 
 # Sunday, June 9th, 2019
-* 8:15 am: Teams report to Round 13 rooms
-* 8:30 am - 10:15 am: Placement rounds (for teams below Tier II and not involved in tier-crossing games)
-* 8:30 am - 12:00 pm: Superplayoff rounds and Tier-crossing rounds (13-18)
-* 11:00 am - 12:00 pm: Junior Varsity and Small School finals, as needed
-* 12:00 - 1:30 pm: Lunch
-* 1:00 pm - 5:00 pm: Buzzer Check-out (Grand Ballroom Foyer)
-
-**All times below are subject to slight (~15-30 minute) changes, depending on the nature of ties that need to be broken.**
-
-* 1:30 pm: Tiebreaker C
-* 2:15 pm: Tournament Finals
-* 3:15 pm: All-Star Game
-* 3:50 pm: Awards Ceremony
-* 4:30 pm: Tournament ends
+* 10:00 am - 2:20 pm: Stage III (Superplayoffs): Rounds 10-14
+* 2:20 - 3:00 pm: Lunch
+* 3:00 - 3:45 pm: Tiebreaker C (Top 10 only)
+* 4:00 - 4:45 pm: 5th-10th placement games: Round 15
+* 4:00 - 4:45 pm: JV and Small School finals (as needed): Round 15
+* 4:00 - 7:45 pm: Semifinals and finals: Rounds 15-18 (4-team double-elimination bracket; 2nd place teams start with 1 loss)
