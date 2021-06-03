@@ -5,7 +5,7 @@ nav_order: 4
 
 ## PACE Twitter
 
-<a class="twitter-timeline" data-height="1200" href="https://twitter.com/PACENSC">Tweets by PACENSC</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-height="1200" href="https://twitter.com/i/lists/1002912212846039041">Tweets by PACENSC</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Liveblogger Twitters
 
