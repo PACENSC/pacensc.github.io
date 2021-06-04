@@ -14,7 +14,7 @@ nav_order: 2
     var adobeDCView = new AdobeDC.View({clientId: "4ca1ca8ae9054330a36de4983cd364f9", divId: "adobe-dc-view"});
     adobeDCView.previewFile({
       content:{ location: 
-        { url: "gameplay-rules.pdf"}},
+        { url: "online-addendum.pdf"}},
       metaData:{fileName: "Gameplay Rules.pdf"}
     },
     {
