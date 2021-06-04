@@ -3,7 +3,7 @@ title: Game Schedules
 nav_order: 1
 ---
 
-# Sunday Seeds and Schedule
+# 2021 PACE NSC Prelims Schedule
 
 <div id="adobe-dc-view" style="height: 750px; width: 900px;"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
@@ -13,16 +13,10 @@ nav_order: 1
     adobeDCView.previewFile({
       content:{ location: 
         { url: "prelim-schedule.pdf"}},
-      metaData:{fileName: "Bodea Brochure.pdf"}
+      metaData:{fileName: "prelim-schedule.pdf"}
     },
     {
       embedMode: "SIZED_CONTAINER"
     });
   });
 </script>
-
-
-# 2019 PACE NSC Team Schedule
-
-<iframe src="https://drive.google.com/file/d/17CdV9EVUhpWx2z2R5dIuNawn-pQs66Zz/preview" width="900" height="750"></iframe>
-

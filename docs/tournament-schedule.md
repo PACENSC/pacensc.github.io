@@ -15,7 +15,7 @@ All times Eastern
 * 6:05 - 7:40 pm: Stage II (Playoffs): Rounds 8-9
 * 7:45 - 8:30 pm: Tiebreaker B (Tier I only)
 
-# Sunday, June 9th, 2019
+# Sunday, June 6th, 2021
 * 10:00 am - 2:20 pm: Stage III (Superplayoffs): Rounds 10-14
 * 2:20 - 3:00 pm: Lunch
 * 3:00 - 3:45 pm: Tiebreaker C (Top 10 only)

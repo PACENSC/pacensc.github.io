@@ -3,6 +3,7 @@ title: Cooper Awards
 nav_order: 7
 ---
 
+# Cooper Awards
 
 The [Benjamin Cooper Academic Ambassador Award](http://www.pace-nsc.org/2018-cooper-award-winners/)
 is an annual award presented by PACE to recognize an individual or organization 

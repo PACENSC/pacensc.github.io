@@ -1,11 +1,11 @@
 ---
-title: PACE NSC Rules
-nav_order: 6
-has_children: true
-permalink: /docs/rules
+title: Online Rules Addendum
+layout: default
+parent: PACE NSC Rules
+nav_order: 2
 ---
 
-# Official PACE Gameplay Rules
+# Online NSC Rules Addendum
 
 <div id="adobe-dc-view" style="height: 750px; width: 900px;"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
