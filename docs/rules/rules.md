@@ -15,7 +15,7 @@ permalink: /docs/rules
     adobeDCView.previewFile({
       content:{ location: 
         { url: "gameplay-rules.pdf"}},
-      metaData:{fileName: "Gameplay Rules.pdf"}
+      metaData:{fileName: "gameplay-rules.pdf"}
     },
     {
       embedMode: "SIZED_CONTAINER"
