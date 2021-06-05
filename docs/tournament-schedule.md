@@ -6,7 +6,7 @@ nav_order: 0.5
 All times Eastern
 
 # Saturday, June 5th, 2021
-* 10:00 - 10:10 am: Opening Meeting
+* 9:45 - 9:55 am: Opening Meeting
 * 10:15 - 10:30 am: Equipment Check
 * 10:35 am - 1:50 pm: Stage I (Prelims): Rounds 1-4
 * 1:55 - 2:30 pm: Lunch
