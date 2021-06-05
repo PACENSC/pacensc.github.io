@@ -10,8 +10,3 @@ search_enabled:   false
 
 permalink:        /posts/:title
 markdown: kramdown
-
-defaults:
-  - values:
-      layout: "default"
-
