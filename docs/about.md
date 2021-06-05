@@ -16,3 +16,5 @@ PACE has many objectives:
 * to encourage quizbowl teams to participate in tournaments across the country prior to regional, state, or national championships,
 * to promote adequate opportunities for all teams to practice, compete, and socialize among other fellow competitors,
 * to produce the question set for and run the National Scholastic Championship each year.
+
+If you want to support our organization, please consider [Donating to PACE](http://www.pace-nsc.org/donate-to-pace/).
