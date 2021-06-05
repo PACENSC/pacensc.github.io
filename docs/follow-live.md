@@ -3,7 +3,7 @@ title: Follow Live
 nav_order: 2
 ---
 
-#Follow Live
+# Follow Live
 
 There are two ways you can follow the action live:
 
