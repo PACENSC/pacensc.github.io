@@ -3,6 +3,10 @@ title: Game Schedules
 nav_order: 1
 ---
 
+# Placement Games
+
+![Placement games](sundayafternoon.png)
+
 # Superplayoff Schedule
 
 <iframe src="https://docs.google.com/spreadsheets/d/1Pi89WJ7F2KHfp9yV346ACjpDJQxL25A8/preview" width="900" height="750"></iframe>
