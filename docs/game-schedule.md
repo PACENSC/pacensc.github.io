@@ -3,7 +3,11 @@ title: Game Schedules
 nav_order: 1
 ---
 
-# 2021 PACE NSC Prelims Schedule
+# Playoff Schedule
+
+<iframe src="https://docs.google.com/spreadsheets/d/1JQ6mgLLl-XnONSz0K4VBKwjrTSe7-gb3/preview" width="900" height="750"></iframe>
+
+# Prelims Schedule
 
 <div id="adobe-dc-view" style="height: 750px; width: 900px;"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
@@ -20,7 +24,3 @@ nav_order: 1
     });
   });
 </script>
-
-# Playoff Schedule
-
-<iframe src="https://docs.google.com/spreadsheets/d/1JQ6mgLLl-XnONSz0K4VBKwjrTSe7-gb3/preview" width="900" height="750"></iframe>
