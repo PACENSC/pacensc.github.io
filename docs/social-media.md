@@ -1,3 +1,4 @@
+<!--- TODO: Update the list with livebloggers -->
 ---
 title: Social Media
 nav_order: 4
