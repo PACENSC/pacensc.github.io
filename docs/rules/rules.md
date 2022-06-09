@@ -1,4 +1,3 @@
-<!--- TODO: Update with new rules doc -->
 ---
 title: PACE NSC Rules
 nav_order: 6

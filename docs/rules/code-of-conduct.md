@@ -2,7 +2,7 @@
 title: Code of Conduct
 layout: default
 parent: PACE NSC Rules
-nav_order: 4
+nav_order: 2
 ---
 
 # NSC Code of Conduct

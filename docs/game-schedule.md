@@ -1,7 +1,6 @@
-<!--- TODO: Update with schedules or schedule placeholders -->
 ---
 title: Game Schedules
-nav_order: 1
+nav_exclude: true
 ---
 
 # Prelims Schedule

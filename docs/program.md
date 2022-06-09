@@ -1,7 +1,6 @@
-<!--- TODO: Update with NSC program -->
 ---        
 title: NSC Program
-nav_order: 2
+nav_exclude: true
 ---
 
 # NSC Program
