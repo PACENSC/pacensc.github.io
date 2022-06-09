@@ -1,4 +1,3 @@
-<!--- TODO: Update with HRO info -->
 ---
 title: Getting Around
 nav_exclude: true
@@ -10,33 +9,19 @@ nav_exclude: true
 
 # Getting to NSC
 
-The 2019 NSC will be held at the [Hyatt Regency Reston](https://goo.gl/maps/tAp4NSVPqVH2) in Reston, VA. You can reach the hotel via a hotel shuttle from Dulles Airport (IAD), the Silver Line Metro to WMATA Bus, and/or Uber/Lyft/cab.
-
-
-If you are traveling by bus or rail to Washington, DC, we recommend traveling to Dulles after arriving in DC and taking the hotel shuttle from there. Various ways to travel between downtown DC and Dulles are outlined [here](https://freetoursbyfoot.com/transportation-washington-d-c-dulles-airport/).
-
-
-## Hotel Shuttle Information
-
-The Hyatt Regency Reston offers a complimentary shuttle to and from Dulles Airport. Shuttle service is based upon request, by simply texting the keyword “SHUTTLE” to *703-991-2117* when you arrive at the airport. The requested pick up times will be at the top of each hour between 6:00 a.m. to 10:00 p.m. Monday - Friday and 7:00 a.m. to 10:00 p.m. on Saturday - Sunday. Requests for pickip should be received at least 15 minutes prior to the top of hour. The pick-up and drop-off point will be at curbs 2A and 2H, adjacent to the lower level baggage claim level.
+The 2022 NSC will be held at the [Hyatt Regency O'Hare](https://www.hyatt.com/en-US/hotel/illinois/hyatt-regency-ohare/chiro) at [9300 Bryn Mawr Ave, Rosemont, IL 60018](https://maps.google.com/maps?q=Hyatt+Regency+O%27Hare&ll=41.985589,-87.868738&spn=0.047211,0.069437&oe=utf-8&client=firefox&fb=1&gl=us&hq=hyatt+regency+o%27hare&cid=3544474959961181820&t=h&z=14). You can reach the hotel via a hotel shuttle from O'Hare, using the Blue Line, or via car. The hotel shuttle leaves the airport every 15 minutes from Door #1 of the Bus and Shuttle Center. Double-check that you’re taking the shuttle to the Hyatt Regency O’Hare, not the Hyatt Rosemont.
 
 # Hotel Map
 
-## Second Floor
+## Entry Level
 
-![](./images/hyatt-reston-second-floor.png)
+![](./images/hro_entry.png)
 
-## Ninth Floor
+## Lobby and International Levels
 
-![](./images/hyatt-reston-ninth-floor.png)
+![](./images/hro_lobby_international.png)
 
-## Tenth Floor
-
-![](./images/hyatt-reston-tenth-floor.png)
-
-## Eleventh Floor
-
-![](./images/hyatt-reston-eleventh-floor.png)
+Rooms 2140-2640 are found in the Executive Wing, which can be accessed through the Lobby Level.
 
 # Restaurant Guide  
 

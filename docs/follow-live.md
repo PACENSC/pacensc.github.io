@@ -1,4 +1,3 @@
-<!--- TODO: Update with livestream and liveblog links -->
 ---
 title: Follow Live
 nav_order: 2
@@ -6,7 +5,8 @@ nav_order: 2
 
 # Follow Live
 
-There are two ways you can follow the action live:
+There are three ways you can follow the action live:
 
-* Keep an eye on your favorite teams by going to [the live standings page](https://pace-nsc.org/live). There, you can see real-time scores and standings, and even links to spectate games on Zoom.
-* You can also watch livestreams of gameplay [on Youtube](https://www.youtube.com/channel/UCjPjiMYO4MA46kOJDsXaxOw). We will be streaming matches all day from [room 1](https://www.youtube.com/watch?v=klFxvnP1D9M) and [room 3](https://www.youtube.com/watch?v=guZR6uIg5r8). For question security purposes, these streams will be on an about 30-minute delay.
+* Keep an eye on your favorite teams by going to the live standings page (coming soon). There, you can see real-time scores and standings of all the teams as the weekend progresses.
+* Follow along with [our livebloggers on Twitter](https://twitter.com/i/lists/1532909314582667264). [Akshata Pisharody](https://twitter.com/PACENSC_AP), [Ben Weiner](https://twitter.com/PACENSC_BW), [Ryan Ritter](https://twitter.com/PACENSC_RJR), and [Sadie Britton](https://twitter.com/PACENSC_SadieB) will be covering the action all weekend, while [the official PACE Twitter](https://twitter.com/PACENSC) will be providing highlights and announcements.
+* On Sunday, superplayoff games from the Rosemont Ballroom, as well as any finals matches, will be streamed [on Youtube](https://www.youtube.com/channel/UCjPjiMYO4MA46kOJDsXaxOw). For question security purposes, these streams will be delayed about 30 minutes from live gameplay.
