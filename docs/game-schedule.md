@@ -1,7 +1,11 @@
 ---
 title: Game Schedules
-nav_exclude: true
+nav_order: 2
 ---
+
+# Tournament Format
+
+![](images/format.png)
 
 # Prelims Schedule
 
