@@ -2,7 +2,6 @@
 title:            2022 PACE NSC
 description:      The official website of the 2022 National Scholastic Championship.
 logo:             pace.png
-favicon:          images/favicon.png
 url:              https://pacensc.github.io
 remote_theme:     pmarsceill/just-the-docs
 color_scheme:     nsc
