@@ -1,6 +1,6 @@
 ---        
 title: NSC Program
-nav_exclude: true
+nav_order: 4
 ---
 
 # NSC Program
