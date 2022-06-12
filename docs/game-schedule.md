@@ -7,6 +7,60 @@ nav_order: 2
 
 ![](images/format.png)
 
+# Superplayoff Schedule
+
+<div id="adobe-dc-view-7" style="height: 750px; width: 900px;"></div>
+<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+<script type="text/javascript">
+  document.addEventListener("adobe_dc_view_sdk.ready", function(){
+    var adobeDCView = new AdobeDC.View({clientId: "4ca1ca8ae9054330a36de4983cd364f9", divId: "adobe-dc-view-7"});
+    adobeDCView.previewFile({
+      content:{ location: 
+        { url: "super-teamindex.pdf"}},
+      metaData:{fileName: "super-teamindex.pdf"}
+    },
+    {
+      embedMode: "SIZED_CONTAINER"
+    });
+  });
+</script>
+
+&nbsp;
+
+<div id="adobe-dc-view-8" style="height: 750px; width: 900px;"></div>
+<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+<script type="text/javascript">
+  document.addEventListener("adobe_dc_view_sdk.ready", function(){
+    var adobeDCView = new AdobeDC.View({clientId: "4ca1ca8ae9054330a36de4983cd364f9", divId: "adobe-dc-view-8"});
+    adobeDCView.previewFile({
+      content:{ location: 
+        { url: "super-schedule.pdf"}},
+      metaData:{fileName: "super-schedule.pdf"}
+    },
+    {
+      embedMode: "SIZED_CONTAINER"
+    });
+  });
+</script>
+
+&nbsp;
+
+<div id="adobe-dc-view-9" style="height: 750px; width: 900px;"></div>
+<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+<script type="text/javascript">
+  document.addEventListener("adobe_dc_view_sdk.ready", function(){
+    var adobeDCView = new AdobeDC.View({clientId: "4ca1ca8ae9054330a36de4983cd364f9", divId: "adobe-dc-view-9"});
+    adobeDCView.previewFile({
+      content:{ location: 
+        { url: "super-teamschedule.pdf"}},
+      metaData:{fileName: "super-teamschedule.pdf"}
+    },
+    {
+      embedMode: "SIZED_CONTAINER"
+    });
+  });
+</script>
+
 # Playoff Schedule
 
 <div id="adobe-dc-view-4" style="height: 750px; width: 900px;"></div>
